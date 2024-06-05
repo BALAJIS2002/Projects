@@ -1,4 +1,4 @@
-#Sample Outputs
+## Sample Outputs
 
 ![screenshot](Samples/1.png)
 
