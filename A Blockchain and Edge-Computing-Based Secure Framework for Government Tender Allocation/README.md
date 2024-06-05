@@ -6,31 +6,31 @@ Government Login Page:
 
 Government Main page:
 
-![screenshot](Samples/img16.jpg)
+![screenshot](Government/Samples/img16.jpg)
 
 Complaint Status Page:
 
-![screenshot](Samples/img19.jpg)
+![screenshot](Government/Samples/img19.jpg)
 
 Construction Activate Page:
 
-![screenshot](Samples/img22.jpg)
+![screenshot](Government/Samples/img22.jpg)
 
 Tenders Details:	
 
-![screenshot](Samples/img25.jpg)
+![screenshot](Government/Samples/img25.jpg)
 
 Contractor Login Page:
 
-![screenshot](Samples/img28.jpg)
+![screenshot](Government/Samples/img28.jpg)
 
 Contractor Main Page:
 
-![screenshot](Samples/img31.jpg)
+![screenshot](Government/Samples/img31.jpg)
 
 Contract View:
 
-![screenshot](Samples/img34.jpg)
+![screenshot](Government/Samples/img34.jpg)
 
 Confirmation View:
 
