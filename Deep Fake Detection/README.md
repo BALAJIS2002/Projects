@@ -1,4 +1,4 @@
-## Introduction and Outputs
+## Insight 
 A deepfake detection system using ResNeXt and Long Short-Term Memory (LSTM) networks offers a 
 robust solution by combining advanced spatial feature extraction and temporal sequence analysis.
 This approach leverages ResNeXt's modular and efficient architecture for high-quality feature 
