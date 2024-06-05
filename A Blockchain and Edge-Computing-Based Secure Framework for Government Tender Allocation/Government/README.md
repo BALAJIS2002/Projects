@@ -1,4 +1,4 @@
 ## Sample Outputs
 
-![screenshot](img11.jpg)
+![screenshot](Samples/img11.jpg)
 
