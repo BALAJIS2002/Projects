@@ -1,4 +1,4 @@
 ## Sample Outputs
 
-![alt text](https://drive.google.com/file/d/14yO355uu3qeG6c15YRGu8GqdMAGnx8Ge/view?usp=sharing)
+![plot](A Blockchain and Edge-Computing-Based Secure Framework for Government Tender Allocation/Government/Samples/img11.jpg)
 
