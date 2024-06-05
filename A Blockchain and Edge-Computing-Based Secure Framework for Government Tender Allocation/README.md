@@ -44,8 +44,8 @@ Contract View:
 
 Confirmation View:
 
-![screenshot](Samples/img37.jpg)
+![screenshot](Government/Samples/img37.jpg)
 
 Backend Storage View:
 
-![screenshot](Samples/img40.jpg)
+![screenshot](Government/Samples/img40.jpg)
