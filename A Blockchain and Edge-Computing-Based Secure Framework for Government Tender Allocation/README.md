@@ -2,7 +2,7 @@
 
 Government Login Page:
 
-![screenshot](Samples/img11.jpg)
+![screenshot](/GovernmentSamples/img11.jpg)
 
 Government Main page:
 
