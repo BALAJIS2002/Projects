@@ -1,3 +1,13 @@
+## Insight
+
+blockchain-based deepfake detection system for government tender allocation enhances transparency 
+and prevents bribery by securely verifying the authenticity of video submissions. Utilizing SHA-256
+for cryptographic security, this approach ensures the integrity and immutability of data. The 
+combination of blockchain and deepfake detection strengthens trust in the tender process, as 
+SHA-256's robust hashing algorithm safeguards against tampering. This system not only improves
+accountability and reduces corruption but also provides a transparent and verifiable record,
+ensuring fair and unbiased tender allocation.
+
 ## Sample Outputs
 
 Government Login Page:
