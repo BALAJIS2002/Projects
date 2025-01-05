@@ -42,8 +42,7 @@ Discriminator Evaluation: The discriminator evaluates the generated colorized im
 Iterative Improvement: The generator keeps refining the colorization based on the discriminator's feedback. Over many iterations, this process improves the quality and realism of the colorized photo.
 
 Final Output: After the generator has made the final adjustments, the colorized version of the image is ready!
-
-Why DeOldify is Effective:
+<h3>Why DeOldify is Effective:</h3><br>
 High-Quality Results: Thanks to StyleGAN’s architecture, DeOldify is able to produce very high-quality, vibrant colorizations. The model has been trained on millions of images, allowing it to generate colors that look natural and contextually appropriate.
 
 Fine Details: The use of CNNs allows the model to capture fine details in the image, such as textures, edges, and other subtle features, which helps in producing realistic colorized versions of images.
