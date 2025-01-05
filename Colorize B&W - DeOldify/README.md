@@ -56,3 +56,10 @@ DeOldify uses Generative Adversarial Networks (GANs), specifically StyleGAN for 
 The model is trained on large datasets of colorized images, learning how to predict realistic colors based on the structure and patterns of the grayscale images.
 DeOldify also uses Convolutional Neural Networks (CNNs) for feature extraction, helping the model understand the image and apply the correct colors.
 </p>
+
+<h4>Code</h4>
+
+<p>
+  <h5>render_factor</h5>
+The default value of 35 has been carefully chosen and should work -ok- for most scenarios (but probably won't be the -best-). This determines resolution at which the color portion of the image is rendered. Lower resolution will render faster, and colors also tend to look more vibrant. Older and lower quality images in particular will generally benefit by lowering the render factor. Higher render factors are often better for higher quality images, but the colors may get slightly washed out.</p>
+
