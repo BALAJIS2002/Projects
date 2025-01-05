@@ -117,7 +117,7 @@ The default value of 35 has been carefully chosen and should work -ok- for most 
 
 <h6>Output</h6>
 <br>
-<h7>Input</h7>
+<h7>Input</h7><br>
 
 ![image](https://github.com/user-attachments/assets/867a4bc3-50c2-4f91-9b1f-ffcec360468c)
 
@@ -129,6 +129,6 @@ The default value of 35 has been carefully chosen and should work -ok- for most 
 ![image](https://github.com/user-attachments/assets/8426e328-6cfc-49a3-99ff-d2dfb7366b70)
 
 ![image](https://github.com/user-attachments/assets/396cb0ae-5bce-4d1c-b6f7-012162517529)
-<h9>FINAL</h9>
+<br><h9>FINAL</h9>
 ![download](https://github.com/user-attachments/assets/a89b31bc-b387-4635-bb04-83d3007a6292)
 
