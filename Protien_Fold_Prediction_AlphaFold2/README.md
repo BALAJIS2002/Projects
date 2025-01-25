@@ -68,10 +68,9 @@ This code is a pipeline for protein structure prediction using **ColabFold**, wh
      - **Structure prediction**: A network of models iteratively refines the 3D coordinates of each residue in the protein sequence.
    - The model works on **monomers** and **multimers** (protein complexes) by predicting structures both individually and in relation to other interacting proteins.
 
-### Key Points to Understand:
+### Points to Remember:
    - The sequence you provide is fed into a sophisticated model trained on vast amounts of protein data (like sequences from **PDB** and **Uniref**).
    - The code implements both **single-chain protein prediction** and **protein complex prediction** (multimer).
    - The structure prediction process is refined by **Amber Relaxation**, which minimizes the predicted structure's energy to make it more realistic.
    - Post-prediction, visualizations and error metrics (like pLDDT and PAE) are provided to help you evaluate the quality of the predicted structure.
 
-Would you like me to dive deeper into any of these sections?
